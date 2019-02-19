@@ -1,2 +1,2 @@
-# Chess-C
+# Chess
 Game of chess (PvP) coded in C
